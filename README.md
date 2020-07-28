@@ -3,6 +3,15 @@
 <ul><details>
 <summary><strong>MATHEMATICS</strong></summary>
 <ul><details>
+<summary><strong>DISTANCE METRICS</strong></summary>
+<li>Euclidean Distance</li>
+<li>Manhattan Distance</li
+<li>Minkowski Distance</li>
+<li>Hamming Distance</li> 
+<li>L1 & L2 Norm</li> 
+<li>Cosine Similarity and Cosine Distance</li>
+</details></ul>
+<ul><details>
 <summary><strong>LINEAR ALGEBRA</strong></summary>
 <li>Scalars, Vectors, Matrices, Tensors</li>
 <li>Eigen Vectors & Eigen Values</li>

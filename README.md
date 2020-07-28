@@ -1,16 +1,16 @@
 <details>
 <summary><strong>MATHSTATS</strong></summary>
 <ul><details>
-<summary><strong>MATHEMATICS</strong></summary>
-<details>
+<summary><strong>MATHEMATICS</strong></summary></ul>
+<ul><details>
 <summary><strong>LINEAR ALGEBRA</strong></summary>
 <li>Scalars, Vectors, Matrices, Tensors</li>
 <li>Eigen Vectors & Eigen Values</li>
-</details>
+  </details></ul>
 <details>
 <summary><strong>PROBABILITY</strong></summary>
 <li>Joint Probability, Marginal Probability, Conditional Probability, Bayes Theorem</li>
-</details></ul>
+</details>
 </details>
 <details>
 <summary><strong>STATISTICS</strong></summary>

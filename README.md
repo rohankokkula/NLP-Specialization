@@ -10,8 +10,8 @@
 <details>
 <summary><strong>PROBABILITY</strong></summary>
 <li>Joint Probability, Marginal Probability, Conditional Probability, Bayes Theorem</li>
-</details>
 </details></ul>
+</details>
 <details>
 <summary><strong>STATISTICS</strong></summary>
 <details>

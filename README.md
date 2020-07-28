@@ -1,20 +1,20 @@
 <details>
 <summary><strong>MATHSTATS</strong></summary>
-<details>
+<ul><details>
 <summary><strong>MATHEMATICS</strong></summary>
-<details>
+<ul><details>
 <summary><strong>LINEAR ALGEBRA</strong></summary>
 <li>Scalars, Vectors, Matrices, Tensors</li>
 <li>Eigen Vectors & Eigen Values</li>
-</details>
-<details>
+</details></ul>
+<ul><details>
 <summary><strong>PROBABILITY</strong></summary>
 <li>Joint Probability, Marginal Probability, Conditional Probability, Bayes Theorem</li>
-</details>
-</details>
-<details>
+</details></ul>
+</details></ul>
+<ul><details>
 <summary><strong>STATISTICS</strong></summary>
-<details>
+<ul><details>
 <summary><strong>Descriptive Statistics</strong></summary>
 Measures of Frequency<br>
 <li>Count, Percent, Frequency</li>
@@ -26,8 +26,8 @@ Measures of Position<br>
 <li>Percentile Ranks, Quartile Ranks, z-scores, IQR</li>
 Measures of Shape<br>
 <li>Skewness(Positive, Normal, Negative), Kurtosis(Leptokurtic, Normal, Platykurtic)</li>
-</details>
-<details>
+</details></ul>
+<ul><details>
 <summary><strong>Inferential Statistics</strong></summary>
 Distribution(Gaussian, Binomial, Poisson, Bernoulli, Chi-Squared)<br>
 Z-statistics, T-statistics, F-Statistics<br>
@@ -39,8 +39,8 @@ t-tests<br>
 <li>One sample, Independent samples, Dependent samples</li>
 ANOVA (Analysis of Variance)<br>
 <li>One-way, Within Groups, Factorial</li>
-</details>
-</details>
+</details></ul>
+</details></ul>
 </details>
 <details>
 <summary><strong>PANDAS</strong></summary>

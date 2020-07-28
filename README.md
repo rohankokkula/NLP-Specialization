@@ -41,6 +41,7 @@ ANOVA (Analysis of Variance)<br>
 <li>One-way, Within Groups, Factorial</li>
 </details>
 </details>
+</details>
 <details>
 <summary><strong>PANDAS</strong></summary>
 Head<br>

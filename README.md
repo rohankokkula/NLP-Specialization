@@ -5,7 +5,7 @@
 <ul><details>
 <summary><strong>DISTANCE METRICS</strong></summary>
 <li>Euclidean Distance</li>
-<li>Manhattan Distance</li
+<li>Manhattan Distance</li>
 <li>Minkowski Distance</li>
 <li>Hamming Distance</li> 
 <li>L1 & L2 Norm</li> 
@@ -25,15 +25,24 @@
 <summary><strong>STATISTICS</strong></summary>
 <ul><details>
 <summary><strong>Descriptive Statistics</strong></summary>
-Measures of Frequency<br>
+<ul><details>
+<summary><strong>Measures of Frequency</strong></summary> 
 <li>Count, Percent, Frequency</li>
-Measures of Central Tendency<br>
+</details></ul>
+<ul><details>
+<summary><strong>Measures of Central Tendency</strong></summary> 
 <li>Mean, Median, and Mode</li>
-Measures of Dispersion<br>
+</details></ul>
+<ul><details>
+<summary><strong>Measures of Dispersion</strong></summary> 
 <li>Range, Variance, Standard Deviation</li>
-Measures of Position<br>
+</details></ul>  
+<ul><details>
+<summary><strong>Measures of Position</strong></summary> 
 <li>Percentile Ranks, Quartile Ranks, z-scores, IQR</li>
-Measures of Shape<br>
+</details></ul>
+<ul><details>
+<summary><strong>Measures of Shape</strong></summary> 
 <li>Skewness(Positive, Normal, Negative), Kurtosis(Leptokurtic, Normal, Platykurtic)</li>
 </details></ul>
 <ul><details>
